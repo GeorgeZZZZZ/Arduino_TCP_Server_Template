@@ -1,1 +1,2 @@
 # Arduino_TCP_Server_Template
+Is a working template to receive commands via TCP/IP as server from my software running on another device as client in same domain. Then I can integrate this template to other jobs to make them as a local domain socket controlable device.
